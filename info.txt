@@ -1,0 +1,3 @@
+echo "# tixdo1" >> README.md
+git init - intialize the git repo
+git  add . - add all files from working directory to staging 
